@@ -11,7 +11,7 @@ setup(
     description='Reads a Finanzguru XLSX Export File and writes one YNAB CSV import file per account.',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/yourusername/finanzguru_to_ynab',  # Replace with your GitHub repository URL
+    url='https://github.com/ayeks/finanzguru_to_ynab',  # Replace with your GitHub repository URL
     packages=find_packages(),
     install_requires=[
         'pandas',
