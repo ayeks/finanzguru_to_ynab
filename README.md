@@ -4,13 +4,7 @@ A Python script for parsing Finanzguru XLSX export files and generating individu
 
 ## Installation
 
-Install it from pypi with:
-
-```bash
-pip install finanzguru_to_ynab
-```
-
-Or clone this repo and install it with:
+Clone this repo and install it with:
 
 ```bash
 pip install .
@@ -59,6 +53,8 @@ Or run the python script directly:
 ```bash
 python finanzguru_to_ynab/run.py -f export.xlsx -saccount "Account" -sdate "Date" -spayee "Payee" -smemo "Memo" -samount "Amount" -o "output_dir"
 ```
+
+In YNAB you can import each account specific CSV file afterwards.
 
 ## Options
 
