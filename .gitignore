@@ -1,0 +1,9 @@
+.venv
+.vscode
+.pytest*
+build
+.output*
+*egg-info
+*.xlsx
+*.csv
+.DS_Store
