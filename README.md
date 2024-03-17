@@ -2,6 +2,8 @@
 
 A Python script for parsing Finanzguru XLSX export files and generating individual YNAB CSV import files per account.
 
+Checkout the [browser based Vue version](https://github.com/ayeks/finanzguru2ynab) as well!
+
 ## Installation
 
 Clone this repo and install it with:
